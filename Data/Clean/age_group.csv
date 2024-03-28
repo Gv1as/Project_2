@@ -1,0 +1,11 @@
+age_group,Variation,count
+0-29,Test,4596
+0-29,Control,3935
+30-49,Test,9898
+30-49,Control,8442
+50-69,Test,10672
+50-69,Control,9513
+70-89,Test,1770
+70-89,Control,1618
+90+,Test,25
+90+,Control,18

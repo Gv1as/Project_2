@@ -1,0 +1,13 @@
+balance_group,Variation,count
+0-10k,Control,0
+0-10k,Test,0
+10k-50k,Test,10000
+10k-50k,Control,8545
+50k-100k,Test,7639
+50k-100k,Control,6825
+100k-500k,Test,7876
+100k-500k,Control,6888
+500k-1M,Test,1016
+500k-1M,Control,871
+1M+,Test,430
+1M+,Control,398

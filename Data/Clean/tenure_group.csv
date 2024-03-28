@@ -1,0 +1,13 @@
+tenure_group,Variation,count
+0-5,Test,2033
+0-5,Control,1746
+6-10,Test,10156
+6-10,Control,8713
+11-15,Test,6324
+11-15,Control,5564
+16-20,Test,4190
+16-20,Control,3685
+21-25,Test,2769
+21-25,Control,2491
+26+,Test,1489
+26+,Control,1328

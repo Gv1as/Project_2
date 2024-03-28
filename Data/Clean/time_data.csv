@@ -1,0 +1,11 @@
+Group,Metric,Time
+Test,Total Time Till Completion,323.647657
+Test,Time Step 1,30.57463960922918
+Test,Time Step 2,36.361507989495706
+Test,Time Step 3,86.60626831804859
+Test,Time Step 4,104.83331518187758
+Control,Total Time Till Completion,333.058985
+Control,Time Step 1,36.79552359732631
+Control,Time Step 2,32.939302389453445
+Control,Time Step 3,86.19777516311905
+Control,Time Step 4,127.14917560847945
