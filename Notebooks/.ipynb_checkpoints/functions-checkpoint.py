@@ -23,3 +23,12 @@ def calculate_time_differences_step(test_finish_df, first_step, next_step):
                 time_diff = group.iloc[i + 1]['date_time'] - group.iloc[i]['date_time']
                 time_differences.append(time_diff.total_seconds())
     return time_differences
+
+def check_next_step_errors(df):
+    error_count = 0
+    for client_id, group in df.groupby('visit_id_numbers'):
+        for i in range(len(group) - 1):
+            if group.iloc[i]['step_value'] > group.iloc[i + 1]['step_value']:
+                error_count += 1
+                break
+    return error_count
