@@ -150,3 +150,6 @@ Time Efficiency: While there was an improvement in the total time spent on the p
 Error Rates: A notable observation was the higher error rates in the Test group compared to the Control group. This discrepancy warrants further investigation to identify underlying factors contributing to the differences and to implement corrective measures accordingly.
 
 In conclusion, the digital experiment has shown promising results with a notable improvement in completion rate exceeding the set threshold. However, there remains room for refinement, particularly in optimizing step-specific time durations and addressing discrepancies in error rates. Further analysis and improvements are essential to enhance the overall user experience and ensure the success of the redesigned digital platform.
+
+
+## Url presentation slides : https://www.canva.com/design/DAGA0iB61-0/uszGLnKzHXS1Qv9q7tkmIw/edit?utm_content=DAGA0iB61-0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
